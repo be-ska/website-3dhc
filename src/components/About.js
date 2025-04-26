@@ -15,7 +15,7 @@ export default function About() {
           <p className="mb-8 leading-relaxed">
           {t("who")}
             <a
-              href="#contact"
+              href="https://forms.gle/otojrjBeXRQAp4zu5"
               className="hover:text-gray-400">
               {t("cont")}
             </a>

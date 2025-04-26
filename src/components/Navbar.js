@@ -43,7 +43,7 @@ export default function Navbar() {
         </nav>
         <nav>
           <a
-            href="#contact"
+            href="https://forms.gle/otojrjBeXRQAp4zu5"
             className="inline-flex items-center py-1 px-3 focus:outline-none hover:text-gray-400">
             {t("sub")}
             <ArrowRightIcon className="w-4 h-4 ml-1" />
