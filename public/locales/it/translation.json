@@ -1,8 +1,9 @@
 {
+    "sponsors": "Sponsor",
     "lan": "English",
     "pilots": "Piloti",
     "location": "Luogo",
-    "sub": "Iscriviti",
+    "sub": "Partecipa all'evento",
 
     "hi": "3DHC 2025, FunFly & Competizione",
     "who": "Vivi l’emozione al 3DHC FunFly & Competizione Mondiale! Non è solo una gara: tutti possono volare e divertirsi insieme. Incontra altri piloti, ammira acrobazie spettacolari e condividi la tua passione. Ti aspettiamo vicino a Milano dal 19 al 21 settembre 2025! ",
@@ -15,9 +16,9 @@
     "format-prelim": "Funfly",
     "format-prelim-desc": "Un weekend pieno di voli, solo per divertimento!",
     "format-semi": "Sport",
-    "format-semi-desc": "Volo freestyle di 3 minuti",
+    "format-semi-desc": "Volo freestyle o musicale di 3 minuti",
     "format-final": "Advanced",
-    "format-final-desc": "Volo freestyle di 3 minuti + Volo freestyle di 3 minuti",
+    "format-final-desc": "Volo freestyle di 3 minuti e Volo musicale di 3 minuti",
 
     "sponsors-desc": "Grazie ai nostri fantastici sponsor per il supporto a questo evento",
 

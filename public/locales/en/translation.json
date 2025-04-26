@@ -3,7 +3,7 @@
     "pilots": "Pilots",
     "lan": "Italiano",
     "location": "Location",
-    "sub": "Subscribe",
+    "sub": "Join the event",
 
     "hi": "3DHC World Class Funfly & Competition 2025",
     "who": "Experience the thrill at the 3DHC World Class FunFly & Competition! This is not just a contest—everyone is welcome to fly and have fun. Meet fellow pilots, enjoy spectacular aerobatics, and share your passion. Join us near Milan from September 19th to 21st, 2025! ",
@@ -14,9 +14,9 @@
     "format-prelim": "Funfly",
     "format-prelim-desc": "A weekend full of flights, just for fun!",
     "format-semi": "Sport",
-    "format-semi-desc": "3 minutes freestyle flight",
+    "format-semi-desc": "3 minutes freestyle OR flight to music",
     "format-final": "Advanced",
-    "format-final-desc": "3 minutes freestyle flight + 3 minutes freestyle flight",
+    "format-final-desc": "3 minutes freestyle flight AND 3 minutes flight to music",
 
     "sponsors-desc": "Thanks to our amazing sponsors for supporting this event",
 
