@@ -3,35 +3,35 @@ export const pilots = [
     name: "Mirko Cesena",
     country: "ITA (forse)",
     age: "meno di me",
-    image: "./pilots/alan.jpg",
     helicopter: {
       manufacturer: "Align",
       model: "T-Rex 600 Nitro"
     },
     sponsors: ["Align", "RCHeli", "Thunder Power"],
+    link: "https://www.facebook.com/mirko.cesena" // Add appropriate link
   },
   {
     name: "Luca Pescante",
     country: "ITA",
     age: 29,
-    image: "./pilots/kyle.jpg",
     helicopter: {
       manufacturer: "SAB",
       model: "Goblin Kraken"
     },
     sponsors: ["SAB", "Castle Creations", "BK Servos"],
+    link: "https://www.facebook.com/luca.pescante" // Add appropriate link
   },
   {
     name: "Pinucccc",
     country: "France",
     age: 28,
-    image: "./pilots/dunkan.jpg",
     helicopter: {
       manufacturer: "Align",
       model: "T-Rex 700X"
     },
     sponsors: ["Align", "Mikado", "Scorpion"],
-  },
+    link: "https://www.facebook.com/pinucccc" // Add appropriate link
+  }
 ];
 
 export const sponsors = [
