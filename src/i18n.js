@@ -23,7 +23,10 @@ i18n
   .init({
     fallbackLng: 'en',
     debug: true,
-
+    // specify namespace /3dhc (instead of default /)
+    // backend: {
+    //   loadPath: '/3dhc/locales/{{lng}}/{{ns}}.json'
+    // },
     interpolation: {
       escapeValue: false, // not needed for react as it escapes by default
     }
