@@ -31,12 +31,6 @@ export default function Navbar() {
           <a href="#contact" className="mr-5 hover:text-gray-400">
             {t("location")}
           </a>
-          { <a href="#sponsors" className="mr-5 hover:text-gray-400">
-            {t("sponsors")}
-          </a> }
-          <a href="#pilots" className="mr-5 hover:text-gray-400">
-            {t("pilots")}
-          </a>
           <button onClick={() => changeLan()} className="md:mr-5 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center hover:text-gray-400">
             {t("lan")}
           </button>

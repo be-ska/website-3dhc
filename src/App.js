@@ -15,8 +15,6 @@ export default function App() {
         <About />
         <Format />
         <Contact />
-        <Sponsors />
-        <Pilots />
       </Suspense>
     </main>
   );
