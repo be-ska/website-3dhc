@@ -27,7 +27,7 @@ export default function Pilots() {
                 <div className="bg-gray-800 rounded flex p-4 h-full items-center hover:bg-gray-700">
                   <div className="flex-grow text-center">
                     <h2 className="text-2xl text-white font-medium mb-1">{pilot.name}</h2>
-                    <h3 className="text-gray-300 mb-3">{pilot.country} • {pilot.age} years</h3>
+                    <h3 className="text-gray-300 mb-3">{pilot.country} • {pilot.age} • {pilot.category}</h3>
                     <div className="mb-4">
                       <p className="text-yellow-300">{pilot.helicopter.manufacturer}</p>
                       <p className="text-white">{pilot.helicopter.model}</p>
