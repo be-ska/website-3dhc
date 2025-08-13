@@ -46,7 +46,8 @@ export const pilots = [
             model: "RAW 580"
         },
         sponsors: [""],
-        link: ""
+        link: "",
+        category: "Sport"
     },
     {
         name: "Valentin Fiorese",
@@ -60,11 +61,12 @@ export const pilots = [
             "Mikado",
             "Yge",
             "Xnova",
-            "Kst",
-            "Maniax",
+            "KST",
+            "ManiaX",
             "1st-rc"
         ],
-        link: "https://youtu.be/0zP1t7k3XcM?si=i6eQS_Vusg9tjBh-"
+        link: "https://youtu.be/0zP1t7k3XcM?si=i6eQS_Vusg9tjBh-",
+        category: "Advanced"
     },
     {
         name: "Fabien Mauger",
@@ -75,7 +77,8 @@ export const pilots = [
             model: "AK700"
         },
         sponsors: ["Fr Power"],
-        link: ""
+        link: "",
+        category: "FunFly"
     },
     {
         name: "Gabriel Grundner",
@@ -86,7 +89,8 @@ export const pilots = [
             model: "LOGO 700"
         },
         sponsors: ["Modellbau Lindinger", "Papa"],
-        link: "https://youtu.be/H92-kz-NYFg?si=1Ao8xjQ1yHfEyMnL"
+        link: "https://youtu.be/H92-kz-NYFg?si=1Ao8xjQ1yHfEyMnL",
+        category: "Advanced"
     },
     {
         name: "Tom Beckert",
@@ -102,7 +106,8 @@ export const pilots = [
             "Bonka/mylipo",
             "1st Rc"
         ],
-        link: "https://www.facebook.com/share/1Ao4h8FyL7/"
+        link: "https://www.facebook.com/share/1Ao4h8FyL7/",
+        category: "Sport"
     },
     {
         name: "Antonio Orlando",
@@ -113,7 +118,8 @@ export const pilots = [
             model: "GOBLIN RAW 580"
         },
         sponsors: ["SAB", "Xnova", "Kavan", "Rcmodel"],
-        link: ""
+        link: "",
+        category: "Advanced"
     },
     {
         name: "Vincenzo Claps",
@@ -124,7 +130,8 @@ export const pilots = [
             model: "AK700, TB70"
         },
         sponsors: [""],
-        link: ""
+        link: "",
+        category: "Sport"
     },
     {
         name: "Lilian Many",
@@ -136,13 +143,14 @@ export const pilots = [
         },
         sponsors: [
             "Goosky",
-            "Maniax",
-            "Kst",
+            "ManiaX",
+            "KST",
             "Azur Power",
             "Egodrift",
             "Hobbywing"
         ],
-        link: "www.facebook.com/lilian.many.7?"
+        link: "www.facebook.com/lilian.many.7?",
+        category: "Advanced"
     },
     {
         name: "Ludovic Abrignani",
@@ -153,7 +161,8 @@ export const pilots = [
             model: "STEAM AK700"
         },
         sponsors: ["Steam", "Fr Power"],
-        link: "https://www.instagram.com/ludovic_abrignani"
+        link: "https://www.instagram.com/ludovic_abrignani",
+        category: "Advanced"
     },
     {
         name: "Lorenzo Costantini",
@@ -168,7 +177,8 @@ export const pilots = [
             "Mikado Model Helicopters",
             "Gens Ace"
         ],
-        link: ""
+        link: "",
+        category: "Advanced"
     },
     {
         name: "Mirko Menna",
@@ -179,7 +189,8 @@ export const pilots = [
             model: "AK700"
         },
         sponsors: ["Steam", "Frpower", "Xdfly", "Vulcan"],
-        link: ""
+        link: "",
+        category: "Advanced"
     },
     {
         name: "Filippo Cicchelli",
@@ -195,7 +206,8 @@ export const pilots = [
             "Xdlfy",
             "Vulcan Rotors"
         ],
-        link: ""
+        link: "",
+        category: "Sport"
     },
     {
         name: "Giorgio Cacciatore",
@@ -206,7 +218,8 @@ export const pilots = [
             model: "SPECTER 700V2"
         },
         sponsors: [""],
-        link: ""
+        link: "",
+        category: "Sport"
     },
     {
         name: "Thula Vivek",
@@ -223,7 +236,8 @@ export const pilots = [
             "Azure",
             "Bonka Battery My Lipo"
         ],
-        link: ""
+        link: "",
+        category: "Sport"
     },
     {
         name: "Joël Franz",
@@ -236,13 +250,14 @@ export const pilots = [
         sponsors: [
             "OMPhobby",
             "Frpower",
-            "Kst",
+            "KST",
             "Egodrift",
             "Azure"
         ],
         link:
             "https://www.facebook.com/share/1Bx9hqyDFP/?" +
-            "mibextid=wwXIfr"
+            "mibextid=wwXIfr",
+        category: "Advanced"
     },
     {
         name: "Marco Caccin",
@@ -253,7 +268,8 @@ export const pilots = [
             model: "RAW 700"
         },
         sponsors: [""],
-        link: ""
+        link: "",
+        category: "FunFly"
     },
     {
         name: "Axel Dumont",
@@ -264,7 +280,8 @@ export const pilots = [
             model: "SPECTER 700 V2 WC"
         },
         sponsors: ["Frpower", "XLPower", "Vulcan"],
-        link: "https://www.facebook.com/axel.dumont.58"
+        link: "https://www.facebook.com/axel.dumont.58",
+        category: "Sport"
     },
     {
         name: "Alexandre Douchez",
@@ -277,29 +294,8 @@ export const pilots = [
         sponsors: ["XLPower", "Fr Power"],
         link:
             "https://www.instagram.com/alex_dchz59?" +
-            "igsh=MmVpcTc3a2txeWNq"
-    },
-    {
-        name: "Lucas Giraud",
-        country: "France",
-        age: "20",
-        helicopter: {
-            manufacturer: "Goosky",
-            model: "QQRS7"
-        },
-        sponsors: ["Goosky"],
-        link: ""
-    },
-    {
-        name: "Quentin Giraud",
-        country: "France",
-        age: "13",
-        helicopter: {
-            manufacturer: "Goosky",
-            model: "RS7"
-        },
-        sponsors: ["Goosky"],
-        link: ""
+            "igsh=MmVpcTc3a2txeWNq",
+        category: "Sport"
     },
     {
         name: "Lucas Giraud",
@@ -311,14 +307,15 @@ export const pilots = [
         },
         sponsors: [
             "Goosky",
-            "Kst",
+            "KST",
             "Xnova",
             "Hobbywing",
             "Radiomaster",
-            "Maniax",
+            "ManiaX",
             "Azur Power"
         ],
-        link: ""
+        link: "",
+        category: "Advanced"
     },
     {
         name: "Quentin Giraud",
@@ -329,7 +326,7 @@ export const pilots = [
             model: "RS7"
         },
         sponsors: ["Goosky"],
-        link: ""
+        link: "",
+        category: "Sport"
     }
 ];
-
