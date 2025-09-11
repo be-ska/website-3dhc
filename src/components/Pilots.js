@@ -15,9 +15,9 @@ export default function Pilots() {
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
             {t("pilots")}
           </h1>
-          <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            {t("pilot-desc")}
-          </p>
+            <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
+              {t("pilot-desc")} {pilots.length} {t("pilot-desc2")}
+            </p>
         </div>
         
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
