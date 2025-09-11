@@ -65,7 +65,7 @@ export const pilots = [
             manufacturer: "SAB Goblin",
             model: "RAW 580"
         },
-        sponsors: [""],
+        sponsors: [],
         link: "",
         category: "Sport"
     },
@@ -149,7 +149,7 @@ export const pilots = [
             manufacturer: "Steam, Align",
             model: "AK700, TB70"
         },
-        sponsors: [""],
+        sponsors: [],
         link: "",
         category: "Sport"
     },
@@ -237,7 +237,7 @@ export const pilots = [
             manufacturer: "XLPower",
             model: "SPECTER 700V2"
         },
-        sponsors: [""],
+        sponsors: [],
         link: "",
         category: "Sport"
     },
@@ -287,7 +287,7 @@ export const pilots = [
             manufacturer: "SAB",
             model: "RAW 700"
         },
-        sponsors: [""],
+        sponsors: [],
         link: "",
         category: "FunFly"
     },
@@ -396,7 +396,7 @@ export const pilots = [
             manufacturer: "SAB",
             model: "GOBLIN 700"
         },
-        sponsors: [""],
+        sponsors: [],
         link: "",
         category: "FunFly"
     },
@@ -430,5 +430,96 @@ export const pilots = [
         ],
         link: "https://www.facebook.com/share/1Bjw2LjPw6/",
         category: "Advanced"
-    }
+    },
+    {
+        name: "Michele Cimarelli",
+        country: "Italia",
+        age: "51",
+        helicopter: {
+            manufacturer: "SAB",
+            model: "GOBLIN PRO"
+        },
+        sponsors: [],
+        link: "",
+        category: "FunFly"
+    },
+    {
+        name: "Alfredo Mei",
+        country: "Italy",
+        age: "51",
+        helicopter: {
+            manufacturer: "SAB",
+            model: "SAB GOBLIN RAW 700"
+        },
+        sponsors: [],
+        link: "https://www.facebook.com/alfredo.mei1",
+        category: "Sport"
+    },
+    {
+        name: "Harald Tripolt",
+        country: "Austria",
+        age: "48",
+        helicopter: {
+            manufacturer: "Xl Power",
+            model: "SPECTER 700V2"
+        },
+        sponsors: [],
+        link: "Harald.tripolt",
+        category: "Sport"
+    },
+    {
+        name: "Rene Flankl",
+        country: "Austria",
+        age: "21",
+        helicopter: {
+            manufacturer: "SAB",
+            model: "RAW 700"
+        },
+        sponsors: [
+            "SAB",
+            "YGE",
+            "Savöx",
+            "Sls Lipo Akkus",
+        ],
+        link: "https://youtube.com/@rene.flankl5273?si=K-UeLOTjjOmhxvTO",
+        category: "Sport"
+    },
+    {
+        name: "Roberto Ostilli",
+        country: "Italia",
+        age: "60",
+        helicopter: {
+            manufacturer: "SAB",
+            model: "IL GOBLIN PRO"
+        },
+        sponsors: [
+            "SAB",
+        ],
+        link: "https://www.facebook.com/ostilli",
+        category: "FunFly"
+    },
+    {
+        name: "Marco Da Re",
+        country: "Italy",
+        age: "25",
+        helicopter: {
+            manufacturer: "SAB",
+            model: "GOBLIN KRAKEN"
+        },
+        sponsors: [],
+        link: "",
+        category: "FunFly"
+    },
+    {
+        name: "Giuseppe Piccione",
+        country: "Italy",
+        age: "38",
+        helicopter: {
+            manufacturer: "Sab",
+            model: "RAW 500"
+        },
+        sponsors: [],
+        link: "",
+        category: "FunFly"
+    },
 ];
