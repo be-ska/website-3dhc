@@ -31,19 +31,19 @@ export const sponsors = [
     },
     {
         name: "FRPower",
-            image: "./sponsors/fr.png",
-            link: "https://www.frpower.it/"
+        image: "./sponsors/fr.png",
+        link: "https://www.frpower.it/"
+    },
+    {
+        name: "Mikado",
+        image: "./sponsors/mikado.png",
+        link: "https://shop.mikado-heli.de"
     },
     {
         name: "RC Model",
         image: "./sponsors/rcm.png",
         link: "http://www.rc-model.it/"
     },
-    // {
-    //     name: "Mikado",
-    //     image: "./sponsors/mikado.png",
-    //     link: "https://shop.mikado-heli.de"
-    // },
     // {
         //   name: "HobbyWing",
         //   image: "./sponsors/hw.png",
@@ -127,7 +127,7 @@ export const pilots = [
             "1st Rc"
         ],
         link: "https://www.facebook.com/share/1Ao4h8FyL7/",
-        category: "Advanced"
+        category: "Sport"
     },
     {
         name: "Antonio Orlando",
@@ -521,5 +521,41 @@ export const pilots = [
         sponsors: [],
         link: "",
         category: "FunFly"
+    },
+    {
+        name: "Paul Gondras",
+        country: "France",
+        age: "26",
+        helicopter: {
+            manufacturer: "Steam",
+            model: "700"
+        },
+        sponsors: [
+            "Frpower",
+            "Vulcan",
+            "Yge",
+            "Mks.",
+        ],
+        link: "https://www.instagram.com/tarygole?igsh=MXNvMzJ6OWpmYWt2cA==",
+        category: "Sport"
+    },
+    {
+        name: "Adam Turner",
+        country: "United Kingdom",
+        age: "39",
+        helicopter: {
+            manufacturer: "Goosky",
+            model: "RS7"
+        },
+        sponsors: [
+            "Goosky",
+            "Scorpion",
+            "Theta",
+            "Maniax",
+            "Azure",
+            "Midland Helicopters",
+        ],
+        link: "https://www.facebook.com/profile.php?id=100080022445852",
+        category: "Advanced"
     },
 ];
