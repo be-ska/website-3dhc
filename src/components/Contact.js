@@ -39,7 +39,7 @@ export default function Contact() {
                 {t("address")}
               </h2>
               <p className="mt-1">
-                Via Case Sparse Agogna <br />
+                Str. Cimitero, <br />
                 28100 Novara NO, Italy
               </p>
             </div>
