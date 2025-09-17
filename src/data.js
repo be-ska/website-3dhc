@@ -127,7 +127,7 @@ export const pilots = [
             "1st Rc"
         ],
         link: "https://www.facebook.com/share/1Ao4h8FyL7/",
-        category: "Sport"
+        category: "Advanced"
     },
     {
         name: "Antonio Orlando",
